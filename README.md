@@ -10,7 +10,7 @@ Backend and distributed systems engineer, about 10 years in. Building multi-tena
 
 **[Architecture Decoder](https://coder-rt.github.io/architecture-decoder/)**
 Ten architecture terms get treated as competing options. They answer three unrelated questions. A field guide with three depth levels and worked examples.
-[Open the guide](https://coder-rt.github.io/architecture-decoder/) · [repo](https://github.com/coder-RT/architecture-decoder)
+[Open the guide](https://coder-rt.github.io/architecture-decoder/)
 
 **SeqIntel**
 A gene-therapy keyword or sequence in, an FTO narrative and landscape out. Work that is 4 to 6 hours by hand finishes in under a minute here. ESM Atlas searches 700 million+ proteins for novelty. ESMFold2 folds the lead variant in 3D. Built for the Built with Claude Life Sciences Hackathon with Gladstone Institutes.
@@ -25,7 +25,7 @@ RAG agent for codebase understanding, architecture analysis, and infrastructure 
 
 - **Lions Cave Grand Finale**, 1st place, Berlin, Jun 2026. Issued by Bayer A.G. Final among prior winners across Bayer and AskBio.
 - **New HorAIzon**, Winner, Leverkusen, Apr 2026. Issued by Bayer A.G.
-- **AskBio Hackathon**, Winner, Feb 2026. Issued by Bayer.
+- **AskBio Hackathon**, Winner, Feb 2026. Issued by Bayer A.G.
 - **Ingenuity Award**, Bayer AI Hackathon, Berlin, Jan 2026. Issued by Bayer A.G.
 - **Built with Claude Life Sciences Hackathon**, Top 500, SeqIntel. Anthropic and Gladstone Institutes.
 
