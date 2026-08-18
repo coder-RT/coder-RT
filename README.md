@@ -9,17 +9,17 @@ Backend and distributed systems engineer, about 10 years in. Building multi-tena
 ## Selected work 🛠️
 
 **[Architecture Decoder](https://coder-rt.github.io/architecture-decoder/)**
-Ten architecture terms get treated as competing options. They answer three unrelated questions. A field guide with three depth levels and worked examples.
+Ten architecture terms get treated as competing options. They answer three unrelated questions. Every concept has a plain-language explanation, three depth levels, code examples, and a demo of what breaks without it. Single file, no build step.
 [Open the guide](https://coder-rt.github.io/architecture-decoder/)
 
 **SeqIntel**
-A gene-therapy keyword or sequence in, an FTO narrative and landscape out. Work that is 4 to 6 hours by hand finishes in under a minute here. ESM Atlas searches 700 million+ proteins for novelty. ESMFold2 folds the lead variant in 3D. Built for the Built with Claude Life Sciences Hackathon with Gladstone Institutes.
+Start with a gene-therapy keyword or sequence. Get an FTO narrative and a landscape back. Work that takes 4 to 6 hours by hand finishes in under a minute. Alignments are checked against a shuffled-sequence noise floor. ESM Atlas searches more than 700 million proteins for novelty. ESMFold2 folds the lead variant in 3D. Built for Anthropic's Life Sciences Hackathon with Gladstone Institutes.
 
 **Opsvo**
-Multi-tenant AI commerce: storefront, API, and infra, so a seller does not have to build a marketplace from scratch.
+Multi-tenant AI commerce for the Indian market: WhatsApp-native ordering, a buyer storefront, and tenant isolation in one deployable service. A working modular monolith: hard internal boundaries, distribution available but not paid for up front.
 
 **code-RAG**
-RAG agent for codebase understanding, architecture analysis, and infrastructure mapping.
+A RAG agent for codebase understanding, architecture analysis, and infrastructure mapping.
 
 ## Recognition 🏆
 
@@ -28,6 +28,10 @@ RAG agent for codebase understanding, architecture analysis, and infrastructure 
 - **AskBio Hackathon**, Winner, Feb 2026. Issued by Bayer A.G.
 - **Ingenuity Award**, Bayer AI Hackathon, Berlin, Jan 2026. Issued by Bayer A.G.
 - **Built with Claude Life Sciences Hackathon**, Top 500, SeqIntel. Anthropic and Gladstone Institutes.
+
+## Currently
+
+Building Opsvo. Thinking about where a modular monolith should stop and services should start, and writing the answers down.
 
 ## Contact 📫
 
